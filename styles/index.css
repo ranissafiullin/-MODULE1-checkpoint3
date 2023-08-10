@@ -279,7 +279,7 @@ h2 {
 
 .contacts__phone:hover {
   opacity: 0.5;
-  border-bottom: 3px solid rgba(0, 0, 0, 0.5);
+  border-bottom: 3px solid #121212;
 }
 
 .contacts__email {
@@ -298,7 +298,7 @@ h2 {
 
 .contacts__email:hover {
   opacity: 0.5;
-  border-bottom: 3px solid rgba(0, 0, 0, 0.5);
+  border-bottom: 3px solid #121212;
 }
 
 .footernav {
