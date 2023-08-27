@@ -1,0 +1,22 @@
+.welcome__image {
+    position: relative;
+    box-sizing: border-box;
+    margin-top: 30px;
+    width: 1150px;
+    height: 500px;
+  
+    background-image: url("../resources/interior.png");
+  }
+  
+  .welcome__story {
+    position: absolute;
+    top: 379px;
+    left: 40px;
+    width: 430px;
+    font-size: 20px;
+    line-height: 27px;
+    font-weight: 400;
+    letter-spacing: -0.6px;
+  
+    color: #fff;
+  }

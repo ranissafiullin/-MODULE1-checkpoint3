@@ -1,0 +1,40 @@
+.footernav {
+    padding-top: 60px;
+    padding-bottom: 87px;
+    margin: auto;
+    width: 470px;
+  }
+  
+  .footernav__link {
+    margin-left: 53px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    text-decoration: none;
+    letter-spacing: -0.54px;
+  
+    color: #ffffff;
+  }
+  
+  .footernav__link:first-child {
+    margin: 0;
+  }
+  
+  .footernav__link:hover {
+    opacity: 0.5;
+  
+    color: #fff;
+  }
+  
+  .footer__title {
+    padding-bottom: 30px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.54px;
+    opacity: 0.5;
+    text-align: center;
+  
+    color: #fff;
+  }

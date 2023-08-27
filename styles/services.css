@@ -1,0 +1,21 @@
+.services__heading {
+    margin-bottom: 34px;
+  
+    color: #fff;
+  }
+  
+  .services__title {
+    padding-top: 13px;
+    padding-bottom: 60px;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: -0.9px;
+  
+    color: #fff;
+  }
+  
+  .services li:last-child {
+    padding-bottom: 90px;
+  }
+  
